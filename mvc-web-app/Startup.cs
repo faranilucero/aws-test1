@@ -37,6 +37,7 @@ namespace mvc_web_app
             {
                 app.UseExceptionHandler("/Home/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                // new comment
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
