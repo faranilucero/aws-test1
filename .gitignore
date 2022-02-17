@@ -1,1 +1,5 @@
 mvc-web-app/appsettings.Development.json
+mvc-web-app/site/*
+mvc-web-app/obj/*
+mvc-web-app/bin/*
+UnitTests/obj/*
